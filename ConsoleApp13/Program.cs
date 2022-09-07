@@ -80,12 +80,6 @@ namespace ConsoleApp13
             {
                 total += youthAge;
             }
-           int sum = total;
-           Console.WriteLine($"the total age of apc fans is {total}");
-           Console.ReadLine();
-            
-         
-            
 
         }
 
